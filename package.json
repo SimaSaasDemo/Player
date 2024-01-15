@@ -27,6 +27,6 @@
     "react": "~0.13.3",
     "style-loader": "~0.12.3",
     "superagent": "~1.2.0",
-    "webpack": "~1.12.9"
+    "webpack": "~5.0.0"
   }
 }
